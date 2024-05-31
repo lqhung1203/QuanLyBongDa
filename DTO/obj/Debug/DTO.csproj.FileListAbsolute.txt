@@ -1,0 +1,24 @@
+D:\QLBongDa\DTO\bin\Debug\DTO.dll
+D:\QLBongDa\DTO\bin\Debug\DTO.pdb
+D:\QLBongDa\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\QLBongDa\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QLBongDa\DTO\obj\Debug\DTO.dll
+D:\QLBongDa\DTO\obj\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QLBongDa (2)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QLBongDa (2)\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\DTO\obj\Debug\DTO.pdb
+D:\CN.NET\QLBongDa\DTO\bin\Debug\DTO.dll
+D:\CN.NET\QLBongDa\DTO\bin\Debug\DTO.pdb
+D:\CN.NET\QLBongDa\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CN.NET\QLBongDa\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CN.NET\QLBongDa\DTO\obj\Debug\DTO.dll
+D:\CN.NET\QLBongDa\DTO\obj\Debug\DTO.pdb
+D:\QuanLyBongDaSetup\QLBongDa\DTO\bin\Debug\DTO.dll
+D:\QuanLyBongDaSetup\QLBongDa\DTO\bin\Debug\DTO.pdb
+D:\QuanLyBongDaSetup\QLBongDa\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\QuanLyBongDaSetup\QLBongDa\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QuanLyBongDaSetup\QLBongDa\DTO\obj\Debug\DTO.dll
+D:\QuanLyBongDaSetup\QLBongDa\DTO\obj\Debug\DTO.pdb

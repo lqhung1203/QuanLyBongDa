@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLBongDa" Class="DataQLBongDaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=HUNG123\SQLEXPRESS;Initial Catalog=QLBongDa;Integrated Security=True" SettingsObjectName="DAL.Properties.Settings" SettingsPropertyName="tspConnect" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Tbl_BANHUANLUYEN" Member="Tbl_BANHUANLUYENs">
+    <Type Name="Tbl_BANHUANLUYEN">
+      <Column Name="MaBHL" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenBHL" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ChucVu" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="MaDB" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="Tbl_DOIBONG_Tbl_BANHUANLUYEN" Member="Tbl_DOIBONG" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_DOIBONG" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tbl_TRONGTAI" Member="Tbl_TRONGTAIs">
+    <Type Name="Tbl_TRONGTAI">
+      <Column Name="MaTT" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenTT" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="NgaySinh" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="QuocTich" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="Tbl_TRONGTAI_Tbl_LICHTHIDAU" Member="Tbl_LICHTHIDAUs" ThisKey="MaTT" OtherKey="MaTT" Type="Tbl_LICHTHIDAU" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tbl_BANTHANG" Member="Tbl_BANTHANGs">
+    <Type Name="Tbl_BANTHANG">
+      <Column Name="MaBT" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaCT" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="LoaiBT" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ThoiDiem" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="MaDB" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="MaTD" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="Tbl_CAUTHU_Tbl_BANTHANG" Member="Tbl_CAUTHU" ThisKey="MaCT" OtherKey="MaCT" Type="Tbl_CAUTHU" IsForeignKey="true" />
+      <Association Name="Tbl_DOIBONG_Tbl_BANTHANG" Member="Tbl_DOIBONG" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_DOIBONG" IsForeignKey="true" />
+      <Association Name="Tbl_LICHTHIDAU_Tbl_BANTHANG" Member="Tbl_LICHTHIDAU" ThisKey="MaTD" OtherKey="MaTD" Type="Tbl_LICHTHIDAU" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tbl_BXH" Member="Tbl_BXHs">
+    <Type Name="Tbl_BXH">
+      <Column Name="MaDB" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SoTranThang" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SoTranHoa" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SoTranThua" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SoBanThang" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SoBanThua" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Diem" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Tbl_DOIBONG_Tbl_BXH" Member="Tbl_DOIBONG" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_DOIBONG" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tbl_CAUTHU" Member="Tbl_CAUTHUs">
+    <Type Name="Tbl_CAUTHU">
+      <Column Name="MaCT" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenCT" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ViTri" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="SoAo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaDB" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="Tbl_CAUTHU_Tbl_BANTHANG" Member="Tbl_BANTHANGs" ThisKey="MaCT" OtherKey="MaCT" Type="Tbl_BANTHANG" />
+      <Association Name="Tbl_CAUTHU_Tbl_THEPHAT" Member="Tbl_THEPHATs" ThisKey="MaCT" OtherKey="MaCT" Type="Tbl_THEPHAT" />
+      <Association Name="Tbl_DOIBONG_Tbl_CAUTHU" Member="Tbl_DOIBONG" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_DOIBONG" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tbl_DOIBONG" Member="Tbl_DOIBONGs">
+    <Type Name="Tbl_DOIBONG">
+      <Column Name="MaDB" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenDB" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="MaNTT" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="Tbl_DOIBONG_Tbl_BANHUANLUYEN" Member="Tbl_BANHUANLUYENs" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_BANHUANLUYEN" />
+      <Association Name="Tbl_DOIBONG_Tbl_BANTHANG" Member="Tbl_BANTHANGs" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_BANTHANG" />
+      <Association Name="Tbl_DOIBONG_Tbl_BXH" Member="Tbl_BXH" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_BXH" Cardinality="One" />
+      <Association Name="Tbl_DOIBONG_Tbl_CAUTHU" Member="Tbl_CAUTHUs" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_CAUTHU" />
+      <Association Name="Tbl_DOIBONG_Tbl_LICHTHIDAU" Member="Tbl_LICHTHIDAUs" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_LICHTHIDAU" />
+      <Association Name="Tbl_DOIBONG_Tbl_THEPHAT" Member="Tbl_THEPHATs" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_THEPHAT" />
+      <Association Name="Tbl_NHATAITRO_Tbl_DOIBONG" Member="Tbl_NHATAITRO" ThisKey="MaNTT" OtherKey="MaNTT" Type="Tbl_NHATAITRO" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tbl_KQTHIDAU" Member="Tbl_KQTHIDAUs">
+    <Type Name="Tbl_KQTHIDAU">
+      <Column Name="MaKQ" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaTD" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Doi1" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Doi2" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SoThePhatDoi1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SoThePhatDoi2" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SoBTDoi1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SoBTDoi2" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Tbl_LICHTHIDAU_Tbl_KQTHIDAU" Member="Tbl_LICHTHIDAU" ThisKey="MaTD" OtherKey="MaTD" Type="Tbl_LICHTHIDAU" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tbl_LICHTHIDAU" Member="Tbl_LICHTHIDAUs">
+    <Type Name="Tbl_LICHTHIDAU">
+      <Column Name="MaTD" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaDB" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="MaSVD" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="MaTT" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Doi1" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Doi2" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="NgayThiDau" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="GioTD" Type="System.TimeSpan" DbType="Time NOT NULL" CanBeNull="false" />
+      <Association Name="Tbl_LICHTHIDAU_Tbl_BANTHANG" Member="Tbl_BANTHANGs" ThisKey="MaTD" OtherKey="MaTD" Type="Tbl_BANTHANG" />
+      <Association Name="Tbl_LICHTHIDAU_Tbl_KQTHIDAU" Member="Tbl_KQTHIDAUs" ThisKey="MaTD" OtherKey="MaTD" Type="Tbl_KQTHIDAU" />
+      <Association Name="Tbl_LICHTHIDAU_Tbl_THEPHAT" Member="Tbl_THEPHATs" ThisKey="MaTD" OtherKey="MaTD" Type="Tbl_THEPHAT" />
+      <Association Name="Tbl_DOIBONG_Tbl_LICHTHIDAU" Member="Tbl_DOIBONG" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_DOIBONG" IsForeignKey="true" />
+      <Association Name="Tbl_TRONGTAI_Tbl_LICHTHIDAU" Member="Tbl_TRONGTAI" ThisKey="MaTT" OtherKey="MaTT" Type="Tbl_TRONGTAI" IsForeignKey="true" />
+      <Association Name="Tbl_SVD_Tbl_LICHTHIDAU" Member="Tbl_SVD" ThisKey="MaSVD" OtherKey="MaSVD" Type="Tbl_SVD" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tbl_NHATAITRO" Member="Tbl_NHATAITROs">
+    <Type Name="Tbl_NHATAITRO">
+      <Column Name="MaNTT" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenNTT" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Tbl_NHATAITRO_Tbl_DOIBONG" Member="Tbl_DOIBONGs" ThisKey="MaNTT" OtherKey="MaNTT" Type="Tbl_DOIBONG" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tbl_SVD" Member="Tbl_SVDs">
+    <Type Name="Tbl_SVD">
+      <Column Name="MaSVD" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenSVD" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="SucChua" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="Tbl_SVD_Tbl_LICHTHIDAU" Member="Tbl_LICHTHIDAUs" ThisKey="MaSVD" OtherKey="MaSVD" Type="Tbl_LICHTHIDAU" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tbl_THEPHAT" Member="Tbl_THEPHATs">
+    <Type Name="Tbl_THEPHAT">
+      <Column Name="MaTP" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenTP" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ThoiDiem" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="MaCT" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="MaDB" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="MaTD" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="Tbl_CAUTHU_Tbl_THEPHAT" Member="Tbl_CAUTHU" ThisKey="MaCT" OtherKey="MaCT" Type="Tbl_CAUTHU" IsForeignKey="true" />
+      <Association Name="Tbl_DOIBONG_Tbl_THEPHAT" Member="Tbl_DOIBONG" ThisKey="MaDB" OtherKey="MaDB" Type="Tbl_DOIBONG" IsForeignKey="true" />
+      <Association Name="Tbl_LICHTHIDAU_Tbl_THEPHAT" Member="Tbl_LICHTHIDAU" ThisKey="MaTD" OtherKey="MaTD" Type="Tbl_LICHTHIDAU" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

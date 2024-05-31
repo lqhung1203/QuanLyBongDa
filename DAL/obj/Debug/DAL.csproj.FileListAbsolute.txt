@@ -1,0 +1,40 @@
+D:\QLBongDa\DAL\bin\Debug\DAL.dll.config
+D:\QLBongDa\DAL\bin\Debug\DAL.dll
+D:\QLBongDa\DAL\bin\Debug\DAL.pdb
+D:\QLBongDa\DAL\bin\Debug\DTO.dll
+D:\QLBongDa\DAL\bin\Debug\DTO.pdb
+D:\QLBongDa\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QLBongDa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QLBongDa\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QLBongDa\DAL\obj\Debug\DAL.dll
+D:\QLBongDa\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QLBongDa (2)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QLBongDa (2)\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\DAL\bin\Debug\DAL.dll.config
+C:\Users\Administrator\Desktop\QLBongDa (2)\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\DAL\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\DAL\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\CN.NET\QLBongDa\DAL\bin\Debug\DAL.dll.config
+D:\CN.NET\QLBongDa\DAL\bin\Debug\DAL.dll
+D:\CN.NET\QLBongDa\DAL\bin\Debug\DAL.pdb
+D:\CN.NET\QLBongDa\DAL\bin\Debug\DTO.dll
+D:\CN.NET\QLBongDa\DAL\bin\Debug\DTO.pdb
+D:\CN.NET\QLBongDa\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\CN.NET\QLBongDa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CN.NET\QLBongDa\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\CN.NET\QLBongDa\DAL\obj\Debug\DAL.dll
+D:\CN.NET\QLBongDa\DAL\obj\Debug\DAL.pdb
+D:\QuanLyBongDaSetup\QLBongDa\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QuanLyBongDaSetup\QLBongDa\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QuanLyBongDaSetup\QLBongDa\DAL\obj\Debug\DAL.dll
+D:\QuanLyBongDaSetup\QLBongDa\DAL\obj\Debug\DAL.pdb
+D:\QuanLyBongDaSetup\QLBongDa\DAL\bin\Debug\DAL.dll.config
+D:\QuanLyBongDaSetup\QLBongDa\DAL\bin\Debug\DAL.dll
+D:\QuanLyBongDaSetup\QLBongDa\DAL\bin\Debug\DAL.pdb
+D:\QuanLyBongDaSetup\QLBongDa\DAL\bin\Debug\DTO.dll
+D:\QuanLyBongDaSetup\QLBongDa\DAL\bin\Debug\DTO.pdb
+D:\QuanLyBongDaSetup\QLBongDa\DAL\obj\Debug\DAL.csproj.CopyComplete

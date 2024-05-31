@@ -1,0 +1,48 @@
+D:\QLBongDa\BUS\bin\Debug\BUS.dll
+D:\QLBongDa\BUS\bin\Debug\BUS.pdb
+D:\QLBongDa\BUS\bin\Debug\DAL.dll
+D:\QLBongDa\BUS\bin\Debug\DTO.dll
+D:\QLBongDa\BUS\bin\Debug\DAL.pdb
+D:\QLBongDa\BUS\bin\Debug\DAL.dll.config
+D:\QLBongDa\BUS\bin\Debug\DTO.pdb
+D:\QLBongDa\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\QLBongDa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QLBongDa\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\QLBongDa\BUS\obj\Debug\BUS.dll
+D:\QLBongDa\BUS\obj\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\obj\Debug\BUS.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\obj\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\bin\Debug\DAL.dll.config
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\CN.NET\QLBongDa\BUS\bin\Debug\BUS.dll
+D:\CN.NET\QLBongDa\BUS\bin\Debug\BUS.pdb
+D:\CN.NET\QLBongDa\BUS\bin\Debug\DAL.dll
+D:\CN.NET\QLBongDa\BUS\bin\Debug\DTO.dll
+D:\CN.NET\QLBongDa\BUS\bin\Debug\DAL.pdb
+D:\CN.NET\QLBongDa\BUS\bin\Debug\DAL.dll.config
+D:\CN.NET\QLBongDa\BUS\bin\Debug\DTO.pdb
+D:\CN.NET\QLBongDa\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CN.NET\QLBongDa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CN.NET\QLBongDa\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CN.NET\QLBongDa\BUS\obj\Debug\BUS.dll
+D:\CN.NET\QLBongDa\BUS\obj\Debug\BUS.pdb
+D:\QuanLyBongDaSetup\QLBongDa\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\QuanLyBongDaSetup\QLBongDa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QuanLyBongDaSetup\QLBongDa\BUS\obj\Debug\BUS.dll
+D:\QuanLyBongDaSetup\QLBongDa\BUS\obj\Debug\BUS.pdb
+D:\QuanLyBongDaSetup\QLBongDa\BUS\bin\Debug\BUS.dll
+D:\QuanLyBongDaSetup\QLBongDa\BUS\bin\Debug\BUS.pdb
+D:\QuanLyBongDaSetup\QLBongDa\BUS\bin\Debug\DAL.dll
+D:\QuanLyBongDaSetup\QLBongDa\BUS\bin\Debug\DTO.dll
+D:\QuanLyBongDaSetup\QLBongDa\BUS\bin\Debug\DAL.pdb
+D:\QuanLyBongDaSetup\QLBongDa\BUS\bin\Debug\DAL.dll.config
+D:\QuanLyBongDaSetup\QLBongDa\BUS\bin\Debug\DTO.pdb
+D:\QuanLyBongDaSetup\QLBongDa\BUS\obj\Debug\BUS.csproj.CopyComplete

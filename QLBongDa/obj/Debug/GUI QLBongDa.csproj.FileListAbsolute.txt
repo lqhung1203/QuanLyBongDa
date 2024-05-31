@@ -1,0 +1,448 @@
+D:\QLBongDa\QLBongDa\bin\Debug\QLBongDa.exe.config
+D:\QLBongDa\QLBongDa\bin\Debug\QLBongDa.exe
+D:\QLBongDa\QLBongDa\bin\Debug\QLBongDa.pdb
+D:\QLBongDa\QLBongDa\bin\Debug\BUS.dll
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.v21.2.dll
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\QLBongDa\QLBongDa\bin\Debug\DTO.dll
+D:\QLBongDa\QLBongDa\bin\Debug\DAL.dll
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\QLBongDa\QLBongDa\bin\Debug\BUS.pdb
+D:\QLBongDa\QLBongDa\bin\Debug\DTO.pdb
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.v21.2.xml
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\QLBongDa\QLBongDa\bin\Debug\DAL.pdb
+D:\QLBongDa\QLBongDa\bin\Debug\DAL.dll.config
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.AssemblyReference.cache
+D:\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.SuggestedBindingRedirects.cache
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.NhaTaiTro.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Properties.Resources.resources
+D:\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.GenerateResource.cache
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.exe.licenses
+D:\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.CoreCompileInputs.cache
+D:\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.CopyComplete
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.exe
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.pdb
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Doibong.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.BanHuanLuyen.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.SVD.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Trangchu.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Trongtai.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.LichThiDau.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.RCLichthidau.ThemLichThiDau.resources
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.Shared.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QLBongDa\QLBongDa\bin\Debug\stdole.dll
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.RCLichthidau.XoaCapNhatLTD.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.ThePhat.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.BanThang.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.CauThu.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.KetQuaThiDau.resources
+D:\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.InDSNhaTaiTro.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\GUI QLBongDa.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.BangXepHang.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.BanThang.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.CauThu.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.Doibong.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.BanHuanLuyen.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.Report.InDSNhaTaiTro.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.KetQuaThiDau.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.LichThiDau.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.NhaTaiTro.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.RCLichthidau.ThemLichThiDau.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.RCLichthidau.XoaCapNhatLTD.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.SVD.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.ThePhat.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.Trangchu.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.Trongtai.resources
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\GUI QLBongDa.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.exe.licenses
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\GUI QLBongDa.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.exe
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\QLBongDa.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\QLBongDa.exe.config
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\QLBongDa.exe
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\QLBongDa.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DAL.dll.config
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Administrator\Desktop\QLBongDa (2)\QLBongDa\obj\Debug\GUI QLBo.B647050E.Up2Date
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\QLBongDa.exe.config
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\QLBongDa.exe
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\QLBongDa.pdb
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\BUS.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.Shared.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.v21.2.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DTO.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DAL.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\stdole.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\BUS.pdb
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DTO.pdb
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.v21.2.xml
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DAL.pdb
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DAL.dll.config
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.AssemblyReference.cache
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.SuggestedBindingRedirects.cache
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.BanThang.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.CauThu.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Doibong.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.BanHuanLuyen.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.formMain.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.KetQuaThiDau.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.NhaTaiTro.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Properties.Resources.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.RCLichthidau.ThemLichThiDau.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.RCLichthidau.XoaCapNhatLTD.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.SVD.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.ThePhat.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Trongtai.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.GenerateResource.cache
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.exe.licenses
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.CoreCompileInputs.cache
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.CopyComplete
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.exe
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.pdb
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.CauthutrongDoibong.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpSanVanDong.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpLichThiDau.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpKetQuaThiDau.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Connection.formConnect.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Login.formLogin.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.BangXepHang.resources
+D:\CN.NET\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpNTTDB.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.AssemblyReference.cache
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.BanThang.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.CauThu.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Connection.formConnect.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Doibong.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.BanHuanLuyen.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.formMain.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.KetQuaThiDau.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Login.formLogin.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.NhaTaiTro.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Properties.Resources.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.RCLichthidau.ThemLichThiDau.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.RCLichthidau.XoaCapNhatLTD.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.BangXepHang.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.CauthutrongDoibong.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpKetQuaThiDau.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpLichThiDau.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpNTTDB.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpSanVanDong.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.SVD.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.ThePhat.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Trongtai.resources
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.GenerateResource.cache
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.exe.licenses
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.CoreCompileInputs.cache
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.exe
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.pdb
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\QLBongDa.exe.config
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\QLBongDa.exe
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\QLBongDa.pdb
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\BUS.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.Shared.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.v21.2.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DTO.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DAL.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\stdole.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\BUS.pdb
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DTO.pdb
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.v21.2.xml
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DAL.pdb
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DAL.dll.config
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.CopyComplete
+D:\QuanLyBongDaSetup\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.TopBanThang.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\QLBongDa.exe.config
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\QLBongDa.exe
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\QLBongDa.pdb
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\BUS.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.Shared.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.v21.2.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DTO.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DAL.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\stdole.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\BUS.pdb
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DTO.pdb
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Data.v21.2.xml
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DAL.pdb
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DAL.dll.config
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.AssemblyReference.cache
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.BanThang.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.CauThu.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Connection.formConnect.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Doibong.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.BanHuanLuyen.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.formMain.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.KetQuaThiDau.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Login.formLogin.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.NhaTaiTro.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Properties.Resources.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.RCLichthidau.ThemLichThiDau.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.RCLichthidau.XoaCapNhatLTD.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.BangXepHang.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.CauthutrongDoibong.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpKetQuaThiDau.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpLichThiDau.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpNTTDB.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.RpSanVanDong.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Report.TopBanThang.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.SVD.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.ThePhat.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.Trongtai.resources
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.GenerateResource.cache
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.exe.licenses
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.CoreCompileInputs.cache
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\GUI QLBongDa.csproj.CopyComplete
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.exe
+D:\QuanLyBongDaSetup\Nhóm 26_Quản lý bóng đá\QLBongDa\QLBongDa\obj\Debug\QLBongDa.pdb
